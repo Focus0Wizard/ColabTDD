@@ -1,6 +1,6 @@
 function showPrice(total){
 
-    return 234
+    return total
 }
 
 export default showPrice
