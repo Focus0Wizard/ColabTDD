@@ -1,6 +1,6 @@
 function showState(code){
 
-    return "MEX"
+    return code
 }
 
 export default showState
