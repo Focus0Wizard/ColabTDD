@@ -6,9 +6,8 @@ function showPrice(total){
 }
 
 function showNetCost(total, items){
-    items = showTotal()
-    //return total*items
-    return 2048
+    items=showTotal(items)
+    return total*items
 }
 
 
